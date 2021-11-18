@@ -4,6 +4,7 @@ Hello, I am a student at [Federal University of Piaui](https://ufpi.br/) in bach
 - 👍 Nowadays, i'm getting certifications in those filds.
 - 📫 How to reach me: emanuelcascone@gmail.com
 - ⚡ Fun fact: i don't know whats i can put here, but it's pretty and i want to put this in my profile
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jecrs687.jecrs687)
 
 <!--
