@@ -1,8 +1,11 @@
 ### Hi, my name is emanuel cascone (i know you know) 👋
+Hello, I am a student at [Federal University of Piaui](https://ufpi.br/) in bachelor of computer science.
 - 🍃 I’m currently learning reactjs, react-native, kotlin and other tecnologies.
 - 👍 Nowadays, i'm getting certifications in those filds.
 - 📫 How to reach me: emanuelcascone@gmail.com
 - ⚡ Fun fact: i don't know whats i can put here, but it's pretty and i want to put this in my profile
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jecrs687.jecrs687)
+
 <!--
 **jecrs687/jecrs687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
