@@ -14,7 +14,7 @@ Hello, I'm a student at [Federal University of Piaui](https://ufpi.br/) in bache
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jecrs687&count_private=true&show_icons=true&hide_title=true&hide_border=true&langs_count=5&bg_color=00000001&text_color=777)
 
-❤️*How can you see, i'm in love with javascript and the frameworks by facebook*
+❤️*How can you see, **I'm in love with javascript** and the frameworks by facebook*
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jecrs687&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=999)](https://github.com/jecrs687)
 
