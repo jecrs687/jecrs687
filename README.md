@@ -7,7 +7,7 @@
 
 ### Hi, my name is emanuel cascone (i know you know) <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 Hello, I'm a student at [Federal University of Piaui](https://ufpi.br/) in bachelor of computer science. 
-- 🍃 I’m currently learning reactjs, react-native and other tecnologies.
+- 🍃 I’m currently learning reactjs, react-native, nestjs and other tecnologies.
 - 👍 Nowadays, i'm getting certifications in those filds.
 - 📫 How to reach me: emanuelcascone@gmail.com
 - ⚡ Fun fact: I love music, languages, animes, classic books and playing piano/guitar
