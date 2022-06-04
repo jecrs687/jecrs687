@@ -5,7 +5,7 @@
 [![zap]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jecrs687/)
 
 
-### Hi, my name is emanuel cascone (i know you know) <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="30px"></a>
+### Hi, my name is emanuel cascone (I know you know) <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="30px"></a>
 Hello, I'm a student at [Federal University of Piaui](https://ufpi.br/) in bachelor of computer science. 
 - 🍃 I’m currently working with Reactjs, React-Native, NestJS, GraphQL, typescript...
 - 👍 Nowadays, I'm getting certifications.
