@@ -7,10 +7,10 @@
 
 ### Hi, my name is emanuel cascone (i know you know) <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="30px"></a>
 Hello, I'm a student at [Federal University of Piaui](https://ufpi.br/) in bachelor of computer science. 
-- 🍃 I’m currently learning reactjs, react-native, nestjs and other tecnologies.
-- 👍 Nowadays, i'm getting certifications in those filds.
+- 🍃 I’m currently working with Reactjs, React-Native, NestJS, GraphQL, typescript...
+- 👍 Nowadays, I'm getting certifications.
 - 📫 How to reach me: emanuelcascone@gmail.com
-- ⚡ Fun fact: I love music, languages, animes, classic books and playing piano/guitar
+- ⚡ Fun fact: I love music, languages, animes, classic books and playing piano/guitar.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jecrs687&count_private=true&show_icons=true&hide_title=true&hide_border=true&langs_count=5&bg_color=00000001&text_color=777)
 
