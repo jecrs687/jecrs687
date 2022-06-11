@@ -19,6 +19,8 @@ Hello, I'm a student at [Federal University of Piaui](https://ufpi.br/) in bache
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+📕 &nbsp;**Latest Blog Posts**
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
