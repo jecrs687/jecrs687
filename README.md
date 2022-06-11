@@ -20,7 +20,7 @@ Hello, I'm a student at [Federal University of Piaui](https://ufpi.br/) in bache
 
 ### 📖 My articles on medium 
 
-  [![spotify-github-profile](https://github-readme-medium-recent-article.vercel.app/medium/@jecrs687/0)](https://spotify-github-profile.vercel.app/api/view?uid=31tl7hwnjbfgpjinrrnzwnitba7e&redirect=true)
+  [![spotify-github-profile](https://github-readme-medium-recent-article.vercel.app/medium/@jecrs687/0)](https://github-readme-medium-recent-article.vercel.app/medium/@jecrs687/0))
   
   
 <!--START_SECTION:waka-->
