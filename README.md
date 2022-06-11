@@ -13,9 +13,16 @@ Hello, I'm a student at [Federal University of Piaui](https://ufpi.br/) in bache
 - 🍃 I’m currently working with Reactjs, React-Native, NestJS, GraphQL, typescript...
 - 👍 Nowadays, I'm getting certifications.
 - 📫 How to reach me: emanuelcascone@gmail.com
-- ⚡ Fun fact: I love music, languages, animes, classic books and playing piano/guitar. And now, I'm Listing: 
+- ⚡ Fun fact: I love music, languages, animes, classic books and playing piano/guitar. 
+- Now, I'm Listing: 
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tl7hwnjbfgpjinrrnzwnitba7e&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31tl7hwnjbfgpjinrrnzwnitba7e&redirect=true)
 
+### 📖 My articles on medium 
+
+  [![spotify-github-profile](https://github-readme-medium-recent-article.vercel.app/medium/@jecrs687/0)](https://spotify-github-profile.vercel.app/api/view?uid=31tl7hwnjbfgpjinrrnzwnitba7e&redirect=true)
+  
+  
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
