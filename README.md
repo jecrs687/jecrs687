@@ -21,7 +21,7 @@ Hello, I'm a student at [Federal University of Piaui](https://ufpi.br/) in bache
         <tr>
                 <td>
                         <a href="https://app.daily.dev/jecrs687">
-                                <img src="https://api.daily.dev/devcards/f26e052e3ae244a5ae29ae06994ba1d0.png?r=rrv"
+                                <img src="https://github.com/jecrs687/jecrs687/blob/master/devcard.svg"
                                         width="400" alt="Emanuel Cascone's Dev Card" />
                         </a>
                 </td>
