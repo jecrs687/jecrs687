@@ -45,10 +45,10 @@ Hello, I'm a student at [Federal University of Piaui](https://ufpi.br/) in bache
                                 <tr> 
                                               <a href="https://github.com/jecrs687">
                                                                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jecrs687&layout=compact&theme=dark&hide_border=true&langs_count=6"
-                                                                          width="200" /></a><a
+                                                                          width="190" /></a><a
                                                                   href="https://spotify-github-profile.vercel.app/api/view?uid=31tl7hwnjbfgpjinrrnzwnitba7e&redirect=true"><img aling="center"
                                                                           src="https://spotify-github-profile.vercel.app/api/view?uid=31tl7hwnjbfgpjinrrnzwnitba7e&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color=53b14f&bar_color_cover=false"
-                                                                          width="200" />
+                                                                          width="190" />
                                                           </a>       
                                 </tr>
                         </table>
