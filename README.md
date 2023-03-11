@@ -56,6 +56,9 @@ Hello, I'm a student at [Federal University of Piaui](https://ufpi.br/) in bache
         </tr>
 </table>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 📖 My articles on medium
 
   [![medium-github-profile](https://github-readme-medium-recent-article.vercel.app/medium/@jecrs687/0)](https://github-readme-medium-recent-article.vercel.app/medium/@jecrs687/0)
