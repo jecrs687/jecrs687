@@ -130,6 +130,10 @@ CSS                      1 repo              ░░░░░░░░░░░�
  Last Updated on 13/03/2023 17:29:45 UTC
 <!--END_SECTION:waka-->
 
+### 📖 My articles on medium
+
+  [![medium-github-profile](https://github-readme-medium-recent-article.vercel.app/medium/@jecrs687/0)](https://github-readme-medium-recent-article.vercel.app/medium/@jecrs687/0)
+
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
