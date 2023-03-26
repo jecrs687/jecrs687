@@ -140,8 +140,8 @@ CSS                      1 repo              ░░░░░░░░░░░�
 - [Create a AMAZING readme for your github profile](https://dev.to/jecrs687/create-a-amazing-readme-for-your-github-profile-3jj0)
 - [Best repositories to learn things faster](https://dev.to/jecrs687/best-repositories-to-learn-something-different-487c)
 - [Como aumentar o lucro na mineração de chia &lpar;para pequenos fazendeiros ou iniciantes&rpar;](https://dev.to/jecrs687/como-aumentar-o-lucro-com-a-chia-para-pequenos-fazendeiros-ou-iniciantes-1o2b)
-- [Criar plots em SSDS com menos de 249G livres &lpar;linux&rpar;](https://dev.to/jecrs687/criar-plots-em-ssds-com-menos-de-249g-livres-linux-2o0e)
-- [Criando plots chia em HDS usando o máximo de desempenho no linux](https://dev.to/jecrs687/criando-plots-chias-em-hds-usando-o-maximo-de-desempenho-no-linux-4ecf)
+- [Salvar arquivos maiores que o tamanho do SSD &lpar;linux&rpar;](https://dev.to/jecrs687/criar-plots-em-ssds-com-menos-de-249g-livres-linux-2o0e)
+- [Tornando hds velhos mais rápidos que um ssd - criando &quot;cluster&quot; de hds](https://dev.to/jecrs687/criando-plots-chias-em-hds-usando-o-maximo-de-desempenho-no-linux-4ecf)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and tools
