@@ -137,7 +137,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a AMAZING readme for your github profile](https://dev.to/jecrs687/create-a-amazing-readme-for-your-github-profile-3jj0)
+- [Create an AMAZING readme for your github profile](https://dev.to/jecrs687/create-a-amazing-readme-for-your-github-profile-3jj0)
 - [Best repositories to learn things faster](https://dev.to/jecrs687/best-repositories-to-learn-something-different-487c)
 - [Como aumentar o lucro na mineração de chia &lpar;para pequenos fazendeiros ou iniciantes&rpar;](https://dev.to/jecrs687/como-aumentar-o-lucro-com-a-chia-para-pequenos-fazendeiros-ou-iniciantes-1o2b)
 - [Salvar arquivos maiores que o tamanho do SSD &lpar;linux&rpar;](https://dev.to/jecrs687/criar-plots-em-ssds-com-menos-de-249g-livres-linux-2o0e)
