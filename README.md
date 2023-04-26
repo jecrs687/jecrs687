@@ -61,7 +61,7 @@ Hello, I'm a student at [Federal University of Piaui](https://ufpi.br/) in bache
 
 **🐱 My GitHub Data** 
 
-> 📦 944.3 kB Used in GitHub's Storage 
+> 📦 937.9 kB Used in GitHub's Storage 
  > 
 > 🏆 254 Contributions in the Year 2023
  > 
@@ -126,7 +126,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/04/2023 16:44:12 UTC
+ Last Updated on 26/04/2023 05:11:14 UTC
 <!--END_SECTION:waka-->
 
 ### 📖 My articles on medium
