@@ -61,15 +61,15 @@ Hello, I'm a student at [Federal University of Piaui](https://ufpi.br/) in bache
 
 **🐱 My GitHub Data** 
 
-> 📦 975.8 kB Used in GitHub's Storage 
+> 📦 976.2 kB Used in GitHub's Storage 
  > 
-> 🏆 47 Contributions in the Year 2024
+> 🏆 53 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 28 Public Repositories 
  > 
-> 🔑 27 Private Repositories 
+> 🔑 26 Private Repositories 
  > 
 **I Mostly Code in JavaScript** 
 
@@ -84,7 +84,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2024 05:12:15 UTC
+ Last Updated on 21/02/2024 05:11:31 UTC
 <!--END_SECTION:waka-->
 
 ### 📖 My articles on medium
