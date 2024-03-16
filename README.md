@@ -57,34 +57,34 @@ Hello, I'm a student at [Federal University of Piaui](https://ufpi.br/) in bache
 </table>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 406 Contributions in the Year 2024
+> 🏆 410 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 30 Public Repositories 
  > 
 > 🔑 26 Private Repositories 
  > 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               55 repos            ████████████████░░░░░░░░░   64.71 % 
-TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+JavaScript               57 repos            ████████████████░░░░░░░░░   65.52 % 
+TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 
 
 
 
- Last Updated on 11/03/2024 05:12:32 UTC
+ Last Updated on 16/03/2024 05:12:14 UTC
 <!--END_SECTION:waka-->
 
 ### 📖 My articles on medium
