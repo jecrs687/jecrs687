@@ -63,7 +63,7 @@ Hello, I'm a student at [Federal University of Piaui](https://ufpi.br/) in bache
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 784 Contributions in the Year 2024
+> 🏆 798 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -74,8 +74,8 @@ Hello, I'm a student at [Federal University of Piaui](https://ufpi.br/) in bache
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               60 repos            ███████████████░░░░░░░░░░   61.86 % 
-TypeScript               12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+JavaScript               61 repos            ████████████████░░░░░░░░░   62.89 % 
+TypeScript               11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
 Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
@@ -84,7 +84,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2024 05:13:27 UTC
+ Last Updated on 16/07/2024 05:13:01 UTC
 <!--END_SECTION:waka-->
 
 ### 📖 My articles on medium
