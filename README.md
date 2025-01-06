@@ -137,7 +137,7 @@ Jupyter Notebook         2 repos             ░░░░░░░░░░░�
 - [Enhancing Small Business Infrastructure: Practical and Cost-effective Strategies](https://dev.to/jecrs687/enhancing-small-business-infrastructure-practical-and-cost-effective-strategies-477l)
 - [Create an AMAZING readme for your github profile](https://dev.to/jecrs687/create-a-amazing-readme-for-your-github-profile-3jj0)
 - [Best repositories to learn things faster](https://dev.to/jecrs687/best-repositories-to-learn-something-different-487c)
-- [Como aumentar o lucro na mineração de chia &lpar;para pequenos fazendeiros ou iniciantes&rpar;](https://dev.to/jecrs687/como-aumentar-o-lucro-com-a-chia-para-pequenos-fazendeiros-ou-iniciantes-1o2b)
+- [How to Maximize Your Profit Mining Chia: Insider Tips to Save Money and Boost Performance](https://dev.to/jecrs687/como-aumentar-o-lucro-com-a-chia-para-pequenos-fazendeiros-ou-iniciantes-1o2b)
 - [Salvar arquivos maiores que o tamanho do SSD &lpar;linux&rpar;](https://dev.to/jecrs687/criar-plots-em-ssds-com-menos-de-249g-livres-linux-2o0e)
 <!-- BLOG-POST-LIST:END -->
 
