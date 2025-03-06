@@ -62,8 +62,6 @@ Hello, I'm Emanuel, a passionate about new technologies! <a href="https://www.ga
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 119 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 39 Public Repositories 
@@ -83,7 +81,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2025 05:14:52 UTC
+ Last Updated on 06/03/2025 05:15:28 UTC
 <!--END_SECTION:waka-->
 
 ### 📖 My articles on medium
