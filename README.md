@@ -56,25 +56,25 @@ Hello, I'm Emanuel, a passionate about new technologies! <a href="https://www.ga
 </table>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 258 Contributions in the Year 2025
+> 🏆 284 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 39 Public Repositories 
+> 📜 37 Public Repositories 
  > 
-> 🔑 29 Private Repositories 
+> 🔑 31 Private Repositories 
  > 
 **I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               56 repos            ███████████████░░░░░░░░░░   58.33 % 
-TypeScript               13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+TypeScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
 C#                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
@@ -83,7 +83,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/04/2025 05:15:49 UTC
+ Last Updated on 11/04/2025 05:17:10 UTC
 <!--END_SECTION:waka-->
 
 ### 📖 My articles on medium
