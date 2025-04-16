@@ -56,13 +56,13 @@ Hello, I'm Emanuel, a passionate about new technologies! <a href="https://www.ga
 </table>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 284 Contributions in the Year 2025
+> 🏆 287 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -83,7 +83,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2025 05:17:10 UTC
+ Last Updated on 16/04/2025 05:16:43 UTC
 <!--END_SECTION:waka-->
 
 ### 📖 My articles on medium
