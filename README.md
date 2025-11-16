@@ -56,13 +56,13 @@ Hello, I'm Emanuel, a passionate about new technologies! <a href="https://www.ga
 </table>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 1,676 Contributions in the Year 2025
+> 🏆 1,750 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -83,7 +83,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/11/2025 05:06:01 UTC
+ Last Updated on 16/11/2025 05:05:30 UTC
 <!--END_SECTION:waka-->
 
 ### 📖 My articles on medium
