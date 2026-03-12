@@ -14,6 +14,11 @@ Hello, I'm Emanuel, a passionate about new technologies! <a href="https://www.ga
 - 🍃 I’m currently working with NextJS, .Net, Capacitor, NestJS, typescript...
 - 📫 How to reach me: emanuelcascone@gmail.com
 - ⚡ Fun fact: I love music, languages, animes, classic books and playing piano/guitar.
+- I have:
+  - [tesify](tesify.app) (+20.000 users)
+  - [iquit](iquitnow.life) (1st app on playstore searching iquit)
+  - [Authenova][authenova.site] (1st mcp seo authomation with high quality)
+  - [CampaignOS](campaignos.site) (full authomation platform for marketing)
 - 🫣 ReadME: 
 
 <table cellspacing="0" cellpadding="0" style="width: fit-content; border:0; max-width: fit-content">
