@@ -17,7 +17,7 @@ Hello, I'm Emanuel, a passionate about new technologies! <a href="https://www.ga
 - I have:
   - [tesify](tesify.app) (+20.000 users)
   - [iquit](iquitnow.life) (1st app on playstore searching iquit)
-  - [Authenova][authenova.site] (1st mcp seo authomation with high quality)
+  - [Authenova](authenova.site) (1st mcp seo authomation with high quality)
   - [CampaignOS](campaignos.site) (full authomation platform for marketing)
 - 🫣 ReadME: 
 
