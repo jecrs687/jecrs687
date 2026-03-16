@@ -61,34 +61,34 @@ Hello, I'm Emanuel, a passionate about new technologies! <a href="https://www.ga
 </table>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.17%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.16%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 430 Contributions in the Year 2026
+> 🏆 566 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 39 Public Repositories 
+> 📜 38 Public Repositories 
  > 
-> 🔑 43 Private Repositories 
+> 🔑 44 Private Repositories 
  > 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               42 repos            ██████████░░░░░░░░░░░░░░░   39.62 % 
-TypeScript               36 repos            ████████░░░░░░░░░░░░░░░░░   33.96 % 
-C#                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Shell                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+JavaScript               42 repos            ██████████░░░░░░░░░░░░░░░   38.89 % 
+TypeScript               38 repos            █████████░░░░░░░░░░░░░░░░   35.19 % 
+C#                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Shell                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 
 
 
 
- Last Updated on 06/03/2026 05:22:02 UTC
+ Last Updated on 16/03/2026 05:38:51 UTC
 <!--END_SECTION:waka-->
 
 ### 📖 My articles on medium
