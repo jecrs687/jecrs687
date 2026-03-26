@@ -65,30 +65,30 @@ Hello, I'm Emanuel, a passionate about new technologies! <a href="https://www.ga
 
 **🐱 My GitHub Data** 
 
-> 📦 1.2 MB Used in GitHub's Storage 
+> 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 566 Contributions in the Year 2026
+> 🏆 751 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 38 Public Repositories 
  > 
-> 🔑 44 Private Repositories 
+> 🔑 46 Private Repositories 
  > 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               42 repos            ██████████░░░░░░░░░░░░░░░   38.89 % 
-TypeScript               38 repos            █████████░░░░░░░░░░░░░░░░   35.19 % 
-C#                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Shell                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+TypeScript               39 repos            █████████░░░░░░░░░░░░░░░░   35.45 % 
+C#                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+HTML                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Shell                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 
 
 
 
- Last Updated on 16/03/2026 05:38:51 UTC
+ Last Updated on 26/03/2026 05:34:19 UTC
 <!--END_SECTION:waka-->
 
 ### 📖 My articles on medium
