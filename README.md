@@ -67,7 +67,7 @@ Hello, I'm Emanuel, a passionate about new technologies! <a href="https://www.ga
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 1,645 Contributions in the Year 2026
+> 🏆 1,664 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -78,17 +78,17 @@ Hello, I'm Emanuel, a passionate about new technologies! <a href="https://www.ga
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               41 repos            █████████░░░░░░░░░░░░░░░░   37.27 % 
-TypeScript               40 repos            █████████░░░░░░░░░░░░░░░░   36.36 % 
-C#                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-HTML                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+JavaScript               41 repos            █████████░░░░░░░░░░░░░░░░   36.94 % 
+TypeScript               40 repos            █████████░░░░░░░░░░░░░░░░   36.04 % 
+C#                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+HTML                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 
 
 
 
- Last Updated on 11/06/2026 06:34:40 UTC
+ Last Updated on 16/06/2026 06:49:44 UTC
 <!--END_SECTION:waka-->
 
 ### 📖 My articles on medium
