@@ -61,7 +61,7 @@ Hello, I'm Emanuel, a passionate about new technologies! <a href="https://www.ga
 </table>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-835%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-844%20hrs%203%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.22%20million%20lines%20of%20code-blue?style=flat)
 
@@ -69,7 +69,7 @@ Hello, I'm Emanuel, a passionate about new technologies! <a href="https://www.ga
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 2,090 Contributions in the Year 2026
+> 🏆 2,114 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -77,74 +77,6 @@ Hello, I'm Emanuel, a passionate about new technologies! <a href="https://www.ga
  > 
 > 🔑 48 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                282 commits         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-🌆 Daytime                501 commits         █████████░░░░░░░░░░░░░░░░   36.12 % 
-🌃 Evening                328 commits         ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-🌙 Night                  276 commits         █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Tuesday                  342 commits         ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
-Wednesday                109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Thursday                 239 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Friday                   101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-Saturday                 159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Sunday                   261 commits         █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 16 hrs 20 mins      ████████████░░░░░░░░░░░░░   49.06 % 
-TypeScript               8 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
-HTML                     3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Python                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-YAML                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-
-🐱‍💻 Projects: 
-authenova                9 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-thesify                  7 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-korean-book              5 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-user-service             4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-be-monorepo              3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-
-💻 Operating System: 
-Mac                      33 hrs 19 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 28 hrs 22 mins (85.16%)
-
-✍️ 41,735 lines written by AI, 89 lines written by hand (99.79% AI-written)
-
-🔤 2,448,957,052 Input Tokens, 6,277,527 Output Tokens
-
-💵 $10180.45 Estimated AI Cost This Week
-
-🧠 17 AI Sessions, 270 AI Prompts
-
-Sonnet                   30,891 lines        ██████████████████░░░░░░░   73.53 % 
-Opus                     9,274 lines         ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-Fable                    1,728 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Haiku                    117 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.79% of written lines came from AI
-📚 Verbose Prompter — average 3,408 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 0.61% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -158,7 +90,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 06:01:16 UTC
+ Last Updated on 06/08/2026 06:00:11 UTC
 <!--END_SECTION:waka-->
 
 ### 📖 My articles on medium
