@@ -61,13 +61,15 @@ Hello, I'm Emanuel, a passionate about new technologies! <a href="https://www.ga
 </table>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-901%20hrs%2046%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.22%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 2,446 Contributions in the Year 2026
+> 🏆 2,452 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -75,6 +77,54 @@ Hello, I'm Emanuel, a passionate about new technologies! <a href="https://www.ga
  > 
 > 🔑 48 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                282 commits         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+🌆 Daytime                501 commits         █████████░░░░░░░░░░░░░░░░   36.12 % 
+🌃 Evening                328 commits         ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+🌙 Night                  276 commits         █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Tuesday                  342 commits         ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+Wednesday                109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Thursday                 239 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Friday                   101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Saturday                 159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Sunday                   261 commits         █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               6 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   39.98 % 
+YAML                     4 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+JSON                     2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+C#                       1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Git                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+
+🐱‍💻 Projects: 
+thesify                  4 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+game-service             3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+user-service             3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+be-sportsbook-service    2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+infra-deployments        2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+
+💻 Operating System: 
+Mac                      17 hrs 12 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -88,7 +138,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 05:10:39 UTC
+ Last Updated on 01/09/2026 05:10:42 UTC
 <!--END_SECTION:waka-->
 
 ### 📖 My articles on medium
