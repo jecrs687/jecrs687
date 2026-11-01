@@ -61,13 +61,15 @@ Hello, I'm Emanuel, a passionate about new technologies! <a href="https://www.ga
 </table>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C205%20hrs%2059%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.23%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 3,745 Contributions in the Year 2026
+> 🏆 3,811 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -75,6 +77,74 @@ Hello, I'm Emanuel, a passionate about new technologies! <a href="https://www.ga
  > 
 > 🔑 62 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                282 commits         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+🌆 Daytime                511 commits         █████████░░░░░░░░░░░░░░░░   36.58 % 
+🌃 Evening                328 commits         ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+🌙 Night                  276 commits         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Tuesday                  342 commits         ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+Wednesday                117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Thursday                 241 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Friday                   101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Saturday                 159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Sunday                   261 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    35 hrs 7 mins       ████████████░░░░░░░░░░░░░   49.70 % 
+Markdown                 9 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+TypeScript               8 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Python                   4 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+JavaScript               3 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+
+🐱‍💻 Projects: 
+thesify                  22 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   31.26 % 
+authenova-web            15 hrs 32 mins      █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+be-monorepo              9 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+authenova                8 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+meetnow                  1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+
+💻 Operating System: 
+Mac                      70 hrs 41 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 68 hrs 55 mins (97.52%)
+
+✍️ 151,143 lines written by AI, 142 lines written by hand (99.91% AI-written)
+
+🔤 137,248,622 Input Tokens, 15,312,234 Output Tokens
+
+💵 $1531.95 Estimated AI Cost This Week
+
+🧠 3277 AI Sessions, 3566 AI Prompts
+
+Opus                     148,108 lines       ████████████████████████░   96.07 % 
+Fable                    5,788 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+GPT                      272 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.91% of written lines came from AI
+📄 Detailed Prompter — average 1,286 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.15% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -88,7 +158,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 05:06:27 UTC
+ Last Updated on 01/11/2026 05:06:57 UTC
 <!--END_SECTION:waka-->
 
 ### 📖 My articles on medium
